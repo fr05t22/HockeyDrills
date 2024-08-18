@@ -1,2 +1,2 @@
 # Initial-Repo
-Initial Repo for Tes
+Hockey Drills from past fundies sessions.
